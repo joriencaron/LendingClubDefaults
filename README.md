@@ -19,6 +19,6 @@ As there is so much personal loss involved in defaulted loans at the LendingClub
 
 # Built with
 
-Python
-Jupyter Notebook
-SQL
+- Python
+- Jupyter Notebook
+- SQL
